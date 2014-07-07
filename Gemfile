@@ -41,3 +41,5 @@ gem 'spring',        group: :development
 
 gem 'twilio-ruby'
 gem 'twilio-engine', :git => "https://github.com/LicausiDev/twilio-engine"
+
+gem 'rails_12factor'
