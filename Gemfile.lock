@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/LicausiDev/twilio-engine
-  revision: 728c0415d23df1b91e6961247bdb3464cb02fa51
+  revision: 45576f20aa0510bcf2e85bd7295fd53a887b7a96
   specs:
     twilio-engine (0.0.1)
       rails (~> 4.1.2)
